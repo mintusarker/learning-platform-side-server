@@ -37,9 +37,52 @@
     {
         "_id": "11468ed61aee84de492a8b04158a22f0",
         "category_id": "06",
-        "title": "Learn PHP Progrramming",
+        "title": "Learn PHP Programming",
         "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-2111313359.jpg",
         "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.PHP code is usually processed on a web server by a PHP interpreter implemented as a module, a daemon or as a Common Gateway Interface (CGI) executable. On a web server, the result of the interpreted and executed PHP code – which may be any type of data, such as generated HTML or binary image data – would form the whole or part of an HTTP response. Various web template systems, web content management systems, and web frameworks exist which can be employed to orchestrate or facilitate the generation of that response. Additionally, PHP can be used for many programming tasks outside the web context, such as standalone graphical applications[10] and robotic drone control.[11] PHP code can also be directly executed from the command line.The standard PHP interpreter, powered by the Zend Engine, is free software released under the PHP License. PHP has been widely ported and can be deployed on most web servers on a variety of operating systems and platforms."
+    },
+
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "category_id": "01",
+        "title": "CSS-Style",
+        "image_url": "https://i.morioh.com/6a6d43417b.png",
+        "details": "CSS stands for Cascading Style Sheets · CSS describes how HTML elements are to be displayed on screen, paper, or in other media.Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.The CSS specifications are maintained by the World Wide Web Consortium (W3C). Internet media type (MIME type) text/css is registered for use with CSS by RFC 2318 (March 1998). The W3C operates a free CSS validation service for CSS documents"
+    },
+    {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "category_id": "02",
+        "title": "Learn JavaScript",
+        "image_url": "https://blog.logrocket.com/wp-content/uploads/2021/02/machine-learning-libraries-javascript.png",
+        "details": "Learn modern JavaScript (ES2015+) from scratch, and practice in an intuitive environment. The challenges are inspired by real-world projects to make sure that you're learning the best practices, one step at a time. Try the first 77 lessons, challenges, projects (first 7 chapters) & flashcards for free. You can upgrade to a Pro account with a one-time payment that gives you access for 5 years.Learn Javascript is suitable for beginner developers who have basic experience in any programming language. Not comfortable with the basics? Then consider Learn Programming which covers the basics.The lessons & challenges will guide you through these topics step by step and its project-based approach will help you reinforce these concepts.The course assumes that you are familiar with the basics such as variables, functions, arrays, objects, classes as well as some HTML & CSS experience."
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "category_id": "03",
+        "title": "React-JS Library ",
+        "image_url": "https://mechomotive.com/wp-content/uploads/2021/08/react.jpg",
+        "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.React is a JavaScript library for building user interfaces. React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug.Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep the state out of the DOM."
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "category_id": "04",
+        "title": "How to learn PYTHON?",
+        "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200807232652/How-to-Learn-Python-in-21-Days.jpg",
+        "details": "Python is a general-purpose, versatile and popular programming language. It’s great as a first language because it is concise and easy to read, and it is also a good language to have in any programmer’s stack as it can be used for everything from web development to software development and scientific applications .Before getting started, you may want to find out which IDEs and text editors are tailored to make Python editing easy, browse the list of introductory books, or look at code samples that you might find helpful.Powerful search engine for developers to find right python package to build app/project. AI powered natural language understanding gives precise recommendation from 430M items"
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "category_id": "05",
+        "title": "Learn C++ programming",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2018/09/Top-Uses-Of-C.jpg",
+        "details": "In computer science, a high-level programming language is a programming language with strong abstraction from the details of the computer. In contrast to low-level programming languages, it may use natural language elements, be easier to use, or may automate (or even hide entirely) significant areas of computing systems (e.g. memory management), making the process of developing a program simpler and more understandable than when using a lower-level language. The amount of abstraction provided defines how high-level a programming language is.High-level language refers to the higher level of abstraction from machine language. Rather than dealing with registers, memory addresses, and call stacks, high-level languages deal with variables, arrays, objects, complex arithmetic or boolean expressions, subroutines and functions, loops, threads, locks, and other abstract computer science concepts, with a focus on usability over optimal program efficiency. Unlike low-level assembly languages, high-level languages have few, if any, language elements that translate directly into a machine's native opcodes. Other features, such as string handling routines, object-oriented language features, and file input/output, may also be present. One thing to note about high-level programming languages is that these languages allow the programmer to be detached and separated from the machine. That is, unlike low-level languages like assembly or machine language, high-level programming can amplify the programmer's instructions and trigger a lot of data movements in the background without their knowledge. The responsibility and power of executing instructions have been handed over to the machine from the programmer."
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a4",
+        "category_id": "06",
+        "title": "PHP-Laravel",
+        "image_url": "https://embed-ssl.wistia.com/deliveries/90455478bb71b5642dccd5bbbac98350.jpg",
+        "details": "Laravel is a PHP web application framework with expressive, elegant syntax.Laravel is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony.Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked."
     }
     
 ]
