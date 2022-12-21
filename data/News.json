@@ -12,7 +12,7 @@
         "category_id": "02",
         "price": "$ 90.00",
         "title": "Javascript For Advance",
-        "image_url": "https://image.shutterstock.com/image-vector/javascript-programming-language-script-code-260nw-1062509657.jpg",
+        "image_url": "https://i.ytimg.com/vi/jS4aFq5-91M/maxresdefault.jpg",
         "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.JavaScript can function as both a procedural and an object oriented language. Objects are created programmatically in JavaScript, by attaching methods and properties to otherwise empty objects at run time, as opposed to the syntactic class definitions common in compiled languages like C++ and Java. Once an object has been constructed it can be used as a blueprint (or prototype) for creating similar objects.JavaScript® is a trademark or registered trademark of Oracle in the U.S. and other countries."
     },
     {
@@ -44,10 +44,9 @@
         "category_id": "06",
         "price": "$ 99.00",
         "title": "Learn PHP Programming",
-        "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-2111313359.jpg",
+        "image_url": "http://www.geniuscomputer.in/images/phpbanner1.png",
         "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.PHP code is usually processed on a web server by a PHP interpreter implemented as a module, a daemon or as a Common Gateway Interface (CGI) executable. On a web server, the result of the interpreted and executed PHP code – which may be any type of data, such as generated HTML or binary image data – would form the whole or part of an HTTP response. Various web template systems, web content management systems, and web frameworks exist which can be employed to orchestrate or facilitate the generation of that response. Additionally, PHP can be used for many programming tasks outside the web context, such as standalone graphical applications[10] and robotic drone control.[11] PHP code can also be directly executed from the command line.The standard PHP interpreter, powered by the Zend Engine, is free software released under the PHP License. PHP has been widely ported and can be deployed on most web servers on a variety of operating systems and platforms."
     },
-
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
         "category_id": "01",
@@ -96,5 +95,4 @@
         "image_url": "https://embed-ssl.wistia.com/deliveries/90455478bb71b5642dccd5bbbac98350.jpg",
         "details": "Laravel is a PHP web application framework with expressive, elegant syntax.Laravel is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony.Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked."
     }
-    
 ]
